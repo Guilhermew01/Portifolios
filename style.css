@@ -78,7 +78,7 @@ body {
     font-weight: bold;
     text-decoration: none;
     color: var(--cor-principal);
-    border: 1px solid #808080;
+    border: 1px solid var(--cor-principal);
     padding: 5px 10px;
     border-radius: 5px;
 }
@@ -108,4 +108,5 @@ body {
     width: 18px;
     height: 18px;
     object-fit: contain;
+
 }
